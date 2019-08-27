@@ -1,7 +1,7 @@
 import React from 'react';
 import { storiesOf } from '@storybook/react'
 
-storiesOf('button', module)
+storiesOf('Button', module)
   .add('with text', () => (
     <button>Hello button</button>
   ))
